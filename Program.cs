@@ -36,7 +36,6 @@ class Server
         IPAddress address = IPAddress.Parse("127.0.0.1");
 
         listener = new TcpListener(address, PORT_NUMBER);
-        Console.WriteLine("NVA");
         Console.WriteLine("Waiting for connection...");
         listener.Start();
 
