@@ -44,3 +44,15 @@ G:\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_
 G:\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.dll
 G:\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.pdb
 G:\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.genruntimeconfig.cache
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.exe
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.deps.json
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.runtimeconfig.json
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.runtimeconfig.dev.json
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.dll
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\bin\Debug\netcoreapp3.1\Server_MultiConnection.pdb
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.csprojAssemblyReference.cache
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.AssemblyInfoInputs.cache
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.AssemblyInfo.cs
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.dll
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.pdb
+G:\LEARN\LAP_TRINH_MANG_SER_CLIENT\server_laptrinhmang\NETWORK_PROGRAMING_SERVER\obj\Debug\netcoreapp3.1\Server_MultiConnection.genruntimeconfig.cache

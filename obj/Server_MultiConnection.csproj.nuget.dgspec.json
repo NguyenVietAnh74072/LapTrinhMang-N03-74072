@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\server_laptrinhmang\\NETWORK_PROGRAMING_SERVER\\Server_MultiConnection.csproj": {}
+    "G:\\LEARN\\LAP_TRINH_MANG_SER_CLIENT\\server_laptrinhmang\\NETWORK_PROGRAMING_SERVER\\Server_MultiConnection.csproj": {}
   },
   "projects": {
-    "G:\\server_laptrinhmang\\NETWORK_PROGRAMING_SERVER\\Server_MultiConnection.csproj": {
+    "G:\\LEARN\\LAP_TRINH_MANG_SER_CLIENT\\server_laptrinhmang\\NETWORK_PROGRAMING_SERVER\\Server_MultiConnection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\server_laptrinhmang\\NETWORK_PROGRAMING_SERVER\\Server_MultiConnection.csproj",
+        "projectUniqueName": "G:\\LEARN\\LAP_TRINH_MANG_SER_CLIENT\\server_laptrinhmang\\NETWORK_PROGRAMING_SERVER\\Server_MultiConnection.csproj",
         "projectName": "Server_MultiConnection",
-        "projectPath": "G:\\server_laptrinhmang\\NETWORK_PROGRAMING_SERVER\\Server_MultiConnection.csproj",
+        "projectPath": "G:\\LEARN\\LAP_TRINH_MANG_SER_CLIENT\\server_laptrinhmang\\NETWORK_PROGRAMING_SERVER\\Server_MultiConnection.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "G:\\server_laptrinhmang\\NETWORK_PROGRAMING_SERVER\\obj\\",
+        "outputPath": "G:\\LEARN\\LAP_TRINH_MANG_SER_CLIENT\\server_laptrinhmang\\NETWORK_PROGRAMING_SERVER\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
